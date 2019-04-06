@@ -1,6 +1,6 @@
 # AQuA Dataset
-The **A**dversarially-authored **Qu**estion-**A**nswer Dataset (AQuA) is an evaluation set commonsense question-answering in the sentence completion style of SWAG. 
-As opposed to other automatically generated NLI datasets, AQuA is adversarially constructed by allowing humans to view feedback from a pre-trained model and use this information to design challenging commonsense questions.
+The **A**dversarially-authored **Qu**estion-**A**nswer Dataset (AQuA) is an evaluation set for commonsense question-answering in the sentence completion style of SWAG. 
+As opposed to other automatically generated NLI datasets, AQuA is adversarially constructed by humans who can view feedback from a pre-trained model and use this information to design challenging commonsense questions.
 Our experimental results show that AQuA questions present a complementary extension to the SWAG dataset, testing additional modes of common sense
 
 We are releasing the original dataset used in the AQuA paper experiments, a total of 2776 entires in the final AQuA dataset (with 25 duplicates removed). 
