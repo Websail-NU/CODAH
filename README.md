@@ -10,10 +10,10 @@ Questions are tagged with categories indicating types of common sense tested by 
 The current CODAH dataset is available in `dataset.tsv`.
 * Column 1: Concatenation of single letter question categorizations based on the following coding system (details of the categories described in the paper):
 	* Idioms(i)
-	* Negation(n)
-	* Polysemy(p)
-	* Quantitative Reasoning(q)
 	* Reference(r)
+	* Polysemy(p)
+	* Negation(n)
+	* Quantitative Reasoning(q)
 	* Others(o)
 * Column 2: Question prompt
 * Column 3-6: Candidate commonsense answers
