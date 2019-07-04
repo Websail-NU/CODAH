@@ -1,0 +1,4 @@
+# This directory is for (potentially large) generated files, such as output
+# from running the code. Hence, we don't want anything here to be committed
+*
+!.gitignore
