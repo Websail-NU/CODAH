@@ -27,3 +27,19 @@ The experiments can be run with `run_cv.py` (note: this script expects the Pytho
 
 After completing these steps, `python3 run_cv.py` will run the experiments and print a summary of the results (this may take several weeks depending on available hardware).
 
+
+## Paper
+
+Details of the dataset can be found in this paper: https://www.aclweb.org/anthology/W19-2008.pdf
+
+Bibtex:
+```
+@inproceedings{chen2019codah,
+  title={CODAH: An Adversarially-Authored Question Answering Dataset for Common Sense},
+  author={Chen, Michael and D'Arcy, Mike and Liu, Alisa and Fernandez, Jared and Downey, Doug},
+  booktitle={Proceedings of the 3rd Workshop on Evaluating Vector Space Representations for NLP},
+  pages={63--69},
+  year={2019}
+}
+```
+
