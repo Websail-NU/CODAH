@@ -6,6 +6,8 @@ Our experimental results show that CODAH questions present a complementary exten
 We are releasing the original dataset used in the CODAH paper experiments, a total of 2776 entires in the final CODAH dataset (with 25 duplicates removed). 
 Questions are tagged with categories indicating types of common sense tested by the question.
 
+The CODAH dataset is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/
+
 ## Data Format
 The current CODAH dataset is available in `data/full_data.tsv`.
 * Column 1: Concatenation of single letter question categorizations based on the following coding system (details of the categories described in the paper):
